@@ -7,8 +7,8 @@ import (
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"github.com/m1guelpf/chatgpt-telegram/src/chatgpt"
-	"github.com/m1guelpf/chatgpt-telegram/src/markdown"
-	"github.com/m1guelpf/chatgpt-telegram/src/ratelimit"
+	"github.com/Mattral/GPT3-TelegramBot/src/markdown"
+	"github.com/Mattral/GPT3-TelegramBot/ratelimit"
 )
 
 type Bot struct {
